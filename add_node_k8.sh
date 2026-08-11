@@ -55,5 +55,3 @@ swapoff -a
 ## Paste the contents on worker node and enter 
 ## Post sucessful execution; Check cluster status on master node command $kubectl get nodes
 ## finisH
-
-## Thanks to my good friend Giri: https://github.com/learnbyseven
